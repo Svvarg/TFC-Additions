@@ -83,7 +83,8 @@ public class BlockChisel extends BlockTerra implements ICTMBlock {
     @Override
     @SideOnly(Side.CLIENT)
     public IIcon getIcon(int side, int meta) {
-        return manager.get(meta).getIcon(side, meta);
+        SubmapManCTM submapManCTM = manager.get(meta);
+        return submapManCTM.getIcon(side, meta);
     }
 
     @Override

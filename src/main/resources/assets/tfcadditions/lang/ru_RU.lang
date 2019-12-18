@@ -1,0 +1,178 @@
+﻿#en_US
+#This is the Main language configuration file
+#
+#If you want to color code the text then I recommend you visit http://www.minecraftwiki.net/wiki/Formatting_codes#Color_codes
+#To create the § symbol which is used for assigning a color to the following text press Alt + 21 on Windows. For other OSes, view the above link.
+#This file needs to be UTF-8 encoded to work with MC 1.7+
+
+itemGroup.TFCAdditions=TFC Additions
+
+key.PrevChiselMode=Previous Chisel Mode
+
+tile.MMRockDent.Gneiss.name=Блок гнейса с контуром
+tile.MMRockDent.Marble.name=Блок мрамора с контуром
+tile.MMRockDent.Phyllite.name=Блок слюдяного сланца с контуром
+tile.MMRockDent.Quartzite.name=Блок кварцита с контуром
+tile.MMRockDent.Schist.name=Блок кристаллического сланца с контуром
+tile.MMRockDent.Slate.name=Блок глинистого сланца с контуром
+
+tile.MMRockDentSmall.Gneiss.name=Блок гнейса с малым контуром
+tile.MMRockDentSmall.Marble.name=Блок мрамора с малым контуром
+tile.MMRockDentSmall.Phyllite.name=Блок слюдяного сланца с малым контуром
+tile.MMRockDentSmall.Quartzite.name=Блок кварцита с малым контуром
+tile.MMRockDentSmall.Schist.name=Блок кристаллического сланца с малым контуром
+tile.MMRockDentSmall.Slate.name=Блок глинистого сланца с малым контуром
+
+tile.IgExRockDent.Andesite.name=Блок андезита с контуром
+tile.IgExRockDent.Basalt.name=Блок базальта с контуром
+tile.IgExRockDent.Dacite.name=Блок дацита с контуром
+tile.IgExRockDent.Rhyolite.name=Блок риолита с контуром
+
+tile.IgExRockDentSmall.Andesite.name=Блок андезита с малым контуром
+tile.IgExRockDentSmall.Basalt.name=Блок базальта с малым контуром
+tile.IgExRockDentSmall.Dacite.name=Блок дацита с малым контуром
+tile.IgExRockDentSmall.Rhyolite.name=Блок риолита с малым контуром
+
+tile.IgInRockDent.Diorite.name=Блок диорита с контуром
+tile.IgInRockDent.Gabbro.name=Блок габбро с контуром
+tile.IgInRockDent.Granite.name=Блок гранита с контуром
+
+tile.IgInRockDentSmall.Diorite.name=Блок диорита с малым контуром
+tile.IgInRockDentSmall.Gabbro.name=Блок габбро с малым контуром
+tile.IgInRockDentSmall.Granite.name=Блок гранита с малым контуром
+
+tile.SedRockDent.Chalk.name=Блок мела с контуром
+tile.SedRockDent.Chert.name=Блок кремнистого сланца с контуром
+tile.SedRockDent.Claystone.name=Блок аргиллита с контуром
+tile.SedRockDent.Conglomerate.name=Блок конгломерата с контуром
+tile.SedRockDent.Dolomite.name=Блок доломита с контуром
+tile.SedRockDent.Limestone.name=Блок известняка с контуром
+tile.SedRockDent.Rock Salt.name=Блок каменной соли с контуром
+tile.SedRockDent.Shale.name=Блок уплотненной глины с контуром
+
+tile.SedRockDentSmall.Chalk.name=Блок мела с малым контуром
+tile.SedRockDentSmall.Chert.name=Блок кремнистого сланца с малым контуром
+tile.SedRockDentSmall.Claystone.name=Блок аргиллита с малым контуром
+tile.SedRockDentSmall.Conglomerate.name=Блок конгломерата с малым контуром
+tile.SedRockDentSmall.Dolomite.name=Блок доломита с малым контуром
+tile.SedRockDentSmall.Limestone.name=Блок известняка с малым контуром
+tile.SedRockDentSmall.Rock Salt.name=Блок каменной соли с малым контуром
+tile.SedRockDentSmall.Shale.name=Блок уплотненной глины с малым контуром
+
+tile.PlanksOutline.Oak.name=Доски из дуба с контуром
+tile.PlanksOutline.Aspen.name=Доски из осины с контуром
+tile.PlanksOutline.Birch.name=Доски из берёзы с контуром
+tile.PlanksOutline.Chestnut.name=Доски из каштана с контуром
+tile.PlanksOutline.Douglas Fir.name=Доски из дугласовой пихты с контуром
+tile.PlanksOutline.Hickory.name=Доски из ореха с контуром
+tile.PlanksOutline.Maple.name=Доски из клена с контуром
+tile.PlanksOutline.Ash.name=Доски из ясеня с контуром
+tile.PlanksOutline.Pine.name=Доски из сосны с контуром
+tile.PlanksOutline.Sequoia.name=Доски из секвойи с контуром
+tile.PlanksOutline.Spruce.name=Доски из ели с контуром
+tile.PlanksOutline.Sycamore.name=Доски из платана с контуром
+tile.PlanksOutline.White Cedar.name=Доски из белого кедра с контуром
+tile.PlanksOutline.White Elm.name=Доски из белого вяза с контуром
+tile.PlanksOutline.Willow.name=Доски из ивы с контуром
+tile.PlanksOutline.Kapok.name=Доски из сейбы с контуром
+tile.PlanksOutline2.Acacia.name=Доски из акации с контуром
+
+tile.PlanksParquet.Oak.name=Паркет из дуба
+tile.PlanksParquet.Aspen.name=Паркет из осины
+tile.PlanksParquet.Birch.name=Паркет из берёзы
+tile.PlanksParquet.Chestnut.name=Паркет из каштана
+tile.PlanksParquet.Douglas Fir.name=Паркет из дугласовой пихты
+tile.PlanksParquet.Hickory.name=Паркет из ореха
+tile.PlanksParquet.Maple.name=Паркет из клена
+tile.PlanksParquet.Ash.name=Паркет из ясеня
+tile.PlanksParquet.Pine.name=Паркет из сосны
+tile.PlanksParquet.Sequoia.name=Паркет из секвойи
+tile.PlanksParquet.Spruce.name=Паркет из ели
+tile.PlanksParquet.Sycamore.name=Паркет из платана
+tile.PlanksParquet.White Cedar.name=Паркет из белого кедра
+tile.PlanksParquet.White Elm.name=Паркет из белого вяза
+tile.PlanksParquet.Willow.name=Паркет из ивы
+tile.PlanksParquet.Kapok.name=Паркет из сейбы
+tile.PlanksParquet2.Acacia.name=Паркет из акации
+
+tile.PlanksNorm.Oak.name=Бруски из дуба
+tile.PlanksNorm.Aspen.name=Бруски из осины
+tile.PlanksNorm.Birch.name=Бруски из берёзы
+tile.PlanksNorm.Chestnut.name=бруски из каштана
+tile.PlanksNorm.Douglas Fir.name=бруски из дугласовой пихты
+tile.PlanksNorm.Hickory.name=бруски из ореха
+tile.PlanksNorm.Maple.name=бруски из клена
+tile.PlanksNorm.Ash.name=бруски из ясеня
+tile.PlanksNorm.Pine.name=бруски из сосны
+tile.PlanksNorm.Sequoia.name=бруски из секвойи
+tile.PlanksNorm.Spruce.name=бруски из ели
+tile.PlanksNorm.Sycamore.name=бруски из платана
+tile.PlanksNorm.White Cedar.name=бруски из белого кедра
+tile.PlanksNorm.White Elm.name=бруски из белого вяза
+tile.PlanksNorm.Willow.name=бруски из ивы
+tile.PlanksNorm.Kapok.name=бруски из сейбы
+tile.PlanksNorm2.Acacia.name=бруски из акации
+
+tile.PlanksVert.Oak.name=Вертикальные бруски из дуба
+tile.PlanksVert.Aspen.name=Вертикальные бруски из осины
+tile.PlanksVert.Birch.name=Вертикальные бруски из берёзы
+tile.PlanksVert.Chestnut.name=Вертикальные бруски из каштана
+tile.PlanksVert.Douglas Fir.name=Вертикальные бруски из дугласовой пихты
+tile.PlanksVert.Hickory.name=Вертикальные бруски из ореха
+tile.PlanksVert.Maple.name=Вертикальные бруски из клена
+tile.PlanksVert.Ash.name=Вертикальные бруски из ясеня
+tile.PlanksVert.Pine.name=Вертикальные бруски из сосны
+tile.PlanksVert.Sequoia.name=Вертикальные бруски из секвойи
+tile.PlanksVert.Spruce.name=Вертикальные бруски из ели
+tile.PlanksVert.Sycamore.name=Вертикальные бруски из платана
+tile.PlanksVert.White Cedar.name=Вертикальные бруски из белого кедра
+tile.PlanksVert.White Elm.name=Вертикальные бруски из белого вяза
+tile.PlanksVert.Willow.name=Вертикальные бруски из ивы
+tile.PlanksVert.Kapok.name=Вертикальные бруски из сейбы
+tile.PlanksVert2.Acacia.name=Вертикальные бруски из акации
+
+tile.PlanksLarge.Oak.name=Длинные бруски из дуба
+tile.PlanksLarge.Aspen.name=Длинные бруски из осины
+tile.PlanksLarge.Birch.name=Длинные бруски из берёзы
+tile.PlanksLarge.Chestnut.name=Длинные бруски из каштана
+tile.PlanksLarge.Douglas Fir.name=Длинные бруски из дугласовой пихты
+tile.PlanksLarge.Hickory.name=Длинные бруски из ореха
+tile.PlanksLarge.Maple.name=Длинные бруски из клена
+tile.PlanksLarge.Ash.name=Длинные бруски из ясеня
+tile.PlanksLarge.Pine.name=Длинные бруски из сосны
+tile.PlanksLarge.Sequoia.name=Длинные бруски из секвойи
+tile.PlanksLarge.Spruce.name=Длинные бруски из ели
+tile.PlanksLarge.Sycamore.name=Длинные бруски из платана
+tile.PlanksLarge.White Cedar.name=Длинные бруски из белого кедра
+tile.PlanksLarge.White Elm.name=Длинные бруски из белого вяза
+tile.PlanksLarge.Willow.name=Длинные бруски из ивы
+tile.PlanksLarge.Kapok.name=Длинные бруски из сейбы
+tile.PlanksLarge2.Acacia.name=Длинные бруски из акации
+
+item.Plank Planed.Oak.name=Гладкая доска из дуба
+item.Plank Planed.Aspen.name=Гладкая доска из осины
+item.Plank Planed.Birch.name=Гладкая доска из берёзы
+item.Plank Planed.Chestnut.name=Гладкая доска из ореха
+item.Plank Planed.Douglas Fir.name=Гладкая доска из дугласовой пихты
+item.Plank Planed.Hickory.name=Гладкая доска из ореха
+item.Plank Planed.Maple.name=Гладкая доска из клена
+item.Plank Planed.Ash.name=Гладкая доска из ясеня
+item.Plank Planed.Pine.name=Гладкая доска из сосны
+item.Plank Planed.Sequoia.name=Гладкая доска из секвойи
+item.Plank Planed.Spruce.name=Гладкая доска из ели
+item.Plank Planed.Sycamore.name=Гладкая доска из платана
+item.Plank Planed.White Cedar.name=Гладкая доска из белого кедра
+item.Plank Planed.White Elm.name=Гладкая доска из белого вяза
+item.Plank Planed.Willow.name=Гладкая доска из ивы
+item.Plank Planed.Kapok.name=Гладкая доска из сейбы
+item.Plank Planed.Acacia.name=Гладкая доска из акации
+
+item.Bismuth Bronze Planer.name=Рубанок из висмутовой бронзы
+item.Black Bronze Planer.name=Рубанок из чёрной бронзы
+item.Black Steel Planer.name=Рубанок из чёрной стали
+item.Blue Steel Planer.name=Рубанок из голубой стали
+item.Bronze Planer.name=Рубанок из бронзы
+item.Copper Planer.name=Рубанок из меди
+item.Wrought Iron Planer.name=Рубанок из кованного железа
+item.Red Steel Planer.name=Рубанок из красной стали
+item.Steel Planer.name=Рубанок из стали
