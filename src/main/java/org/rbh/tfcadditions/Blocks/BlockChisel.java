@@ -123,4 +123,10 @@ public class BlockChisel extends BlockTerra implements ICTMBlock {
     public ISubmapManager getManager(int meta) {
         return manager.get(meta);
     }
+    
+    @Override
+    public boolean isOpaqueCube()
+    {
+        return false;
+    }
 }
